@@ -1,0 +1,4 @@
+% plotVideoDMDWithoutParticles
+plotVideoDMDWithParticles
+% plotVideoOriginalAndDMDWithoutParticles
+plotVideoOriginalAndDMDWithParticles
